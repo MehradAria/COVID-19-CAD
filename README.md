@@ -16,10 +16,10 @@ We also made available a large public COVID-19 (SARS-CoV-2) lung CT scan dataset
 
 Dataset is also available at: [https://www.kaggle.com/mehradaria/covid19-lung-ct-scans](https://www.kaggle.com/mehradaria/covid19-lung-ct-scans)
 
-You may access the related paper at: [Deep CNN-Based CAD System for COVID-19 Detection Using Multiple Lung CT Scans](https://#)
+You may access the related paper at: [Deep CNN-Based CAD System for COVID-19 Detection Using Multiple Lung CT Scans](https://doi.org/10.2196/27468)
 
 Please kindly cite as:
-`Ghaderzadeh, Mustafa, Asadi, Farkhondeh, Jafari, Ramezan, Bashash, Davood, Abolghasemi, Hassan, and Aria, Mehrad. "Deep CNN-Based CAD System for COVID-19 Detection Using Multiple Lung CT Scans." XXX (2021). DOI: https://doi.org/XXX.`
+`Ghaderzadeh M, Asadi F, Jafari R, Bashash D, Abolghasemi H, Aria M. "Deep CNN-Based CAD System for COVID-19 Detection Using Multiple Lung CT Scans. Journal of Medical Internet Research". 2021 Apr 3. DOI: 10.2196/27468. PMID: 33848973.`
 
 
-`Ghaderzadeh, Mustafa, Asadi, Farkhondeh, Jafari, Ramezan, Bashash, Davood, Abolghasemi, Hassan, and Aria, Mehrad. "COVID-19 Lung CT Scans: A large dataset of lung CT scans for COVID-19 (SARS-CoV-2) detection." Kaggle (2021). DOI: https://doi.org/XXX.`
+`Aria M, Ghaderzadeh M, Asadi F, Jafari R. "COVID-19 Lung CT Scans: A large dataset of lung CT scans for COVID-19 (SARS-CoV-2) detection." Kaggle (2021). DOI: 10.34740/kaggle/dsv/1875670.`
