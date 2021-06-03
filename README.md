@@ -19,12 +19,14 @@ Dataset is also available at: [https://www.kaggle.com/mehradaria/covid19-lung-ct
 You may access the related paper at: [Deep Convolutional Neural Network–Based Computer-Aided Detection System for COVID-19 Using Multiple Lung Scans: Design and Implementation Study](https://doi.org/10.2196/27468)
 
 Please kindly cite as:
-`Ghaderzadeh M, Asadi F, Jafari R, Bashash D, Abolghasemi H, Aria M. 
-"Deep Convolutional Neural Network–Based Computer-Aided Detection System for COVID-19 Using Multiple Lung Scans: Design and Implementation Study" 
-J Med Internet Res 2021;23(4):e27468
-URL: https://www.jmir.org/2021/4/e27468
-DOI: 10.2196/27468
-PMID: 33848973`
 
+    Ghaderzadeh M, Asadi F, Jafari R, Bashash D, Abolghasemi H, Aria M. 
+    "Deep Convolutional Neural Network–Based Computer-Aided Detection System for COVID-19 Using Multiple Lung Scans: Design and Implementation Study" 
+    J Med Internet Res 2021;23(4):e27468
+    URL: https://www.jmir.org/2021/4/e27468
+    DOI: 10.2196/27468
+    PMID: 33848973
 
-`Ghaderzadeh M, Asadi F, Jafari R, Aria M. "COVID-19 Lung CT Scans: A large dataset of lung CT scans for COVID-19 (SARS-CoV-2) detection." Kaggle (2021). DOI: 10.34740/kaggle/dsv/1875670.`
+`Ghaderzadeh M, Asadi F, Jafari R, Aria M.
+"COVID-19 Lung CT Scans: A large dataset of lung CT scans for COVID-19 (SARS-CoV-2) detection."
+Kaggle (2021). DOI: 10.34740/kaggle/dsv/1875670.`
